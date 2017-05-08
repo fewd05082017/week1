@@ -18,7 +18,7 @@ Create your `index.html` and `resume.html` files. Then, write plain text for the
 
 Add CSS styles, an image, and link the two pages together.
 
-Use Wendy Bite’s website as a guide, but feel free to branch-out or get as creative as your current skills allow.
+Use Betty White’s website as a guide, but feel free to branch-out or get as creative as your current skills allow.
 
 ### Step 4 - Commit and Sync
 
