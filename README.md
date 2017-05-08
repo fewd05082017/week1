@@ -6,11 +6,11 @@ You will create a two-page website for yourself.
 
 ### Step 1 - Fork this repository.
 
-From the assignment homepage (https://github.com/fewd90nyc/fewd90week1), click the "Fork" link on the top right. This will create a copy of the assignment in YOUR github account.
+From the assignment homepage (https://github.com/fewd05082017/week1), click the "Fork" link on the top right. This will create a copy of the assignment in YOUR github account.
 
 ### Step 2 - Clone your forked repository.
 
-From the repository homepage (which will be http://github.com/YOURUSERNAME/fewd90week1), click on green "Clone or Download" button and "Open in Desktop". This should open your Github Desktop App and prompt you to save the fewd90week1 folder on your computer. Decide on a place on your computer where you want to store all of your assignments. I suggest creating a FEWD90Homework folder or similar in your Documents or on your Desktop. 
+From the repository homepage (which will be http://github.com/YOURUSERNAME/week1), click on green "Clone or Download" button and "Open in Desktop". This should open your Github Desktop App and prompt you to save the week1 folder on your computer. Decide on a place on your computer where you want to store all of your assignments. I suggest creating a FEWDHomework folder or similar in your Documents or on your Desktop. 
 
 ### Step 3 - Build!
 
@@ -26,4 +26,4 @@ This step is confusing. You can work on your website locally and view it in the 
 
 ### Step 5 - Submit
 
-Once you are happy with your website (and you've done Step 4), you will send a "Pull Request". This process creates an alert which tells us you are "done" with your forked code and that we can review. We will walk through this process together at the start of class in Week 2. In the future, this should be done before the Tuesday class starts.
+Once you are happy with your website (and you've done Step 4), you will send a "Pull Request". This process creates an alert which tells us you are "done" with your forked code and that we can review. We will walk through this process together at the start of class in Week 2. In the future, this should be done before the Monday class starts.
