@@ -1,0 +1,42 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	background: #BFD8D2;
+	color: #5F0F4E;
+	border-width: 10px; 
+	border-style: solid;
+	border-color: #A9A9A9;
+	border-radius: 8px;
+}
+
+img {
+	border-radius: 8px; 
+	display: block;
+    margin: auto;  
+}
+
+button {
+	border-radius: 4px;
+	
+}
+a {
+	text-decoration: none;
+
+}
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+p {
+	line-height: 80%;
+}
