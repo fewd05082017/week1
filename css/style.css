@@ -1,0 +1,43 @@
+body {
+	color: black;
+	background-color: #7F2626;
+	font-family: 'Droid Serif', serif;
+}
+
+  img {
+    height: auto;
+    width: auto;
+    max-height: 25px
+    min-height: 25px;
+  }
+
+  a {
+    font-size: 16px
+    font-style:bold;
+    font-style: Arial;
+  }
+
+h1 { 
+  font-size: 50px;
+  text-transform: normal;
+  text-align: center;
+  background-color: silver;
+  text-decoration: bold;
+}
+
+h2 {
+ color: silver;
+ text-align: center;
+
+}
+
+p {
+ color: F77A52;
+ font-style: normal;
+ font-family: Georgia;
+}
+
+li {
+  font-family: Georgia;
+  color: #333333;
+}
