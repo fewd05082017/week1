@@ -1,0 +1,26 @@
+body {
+  background-color: #EFEFEF;  
+}
+
+h1, h2, h3, h4 {
+  color: #FF383F;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+a {
+  font-family: 'Fjalla One', sans-serif;
+  color: #373737;
+  border: 1px solid #FF383F;
+  padding: 5px;
+  text-decoration: none;
+}
+
+p {
+  color: #373737;
+  font-family: Roboto, sans-serif;
+}
+
+li {
+  color: #373737;
+  font-family: Roboto, sans-serif;
+}
