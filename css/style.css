@@ -1,0 +1,49 @@
+body {
+	background-color: #292d2d;
+	color: #c9d6d6;
+	font-family: Arial, san-serif;
+	text-align: center;
+	font-family: 'Taviraj', serif;
+	border-style: solid;
+	padding-left: 1cm;
+ 	padding-top: 1cm;
+
+}
+
+p {
+	text-align: left;
+	font-size: 16px;
+
+}
+
+h1 {
+	text-transform: uppercase;
+
+}
+
+h2 {
+	text-align: left;
+}
+
+h3 {
+	text-align: left;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+
+h4 {
+	text-align: left;
+}
+
+ul {
+	text-align: left;
+}
+
+li {
+	text-align: left;
+	font-style: italic;
+}
+
+a {
+	color: #0acccc;
+}
