@@ -1,0 +1,43 @@
+body {
+  color: black;
+  background-color: rgb(240,240,235);
+  font-family: 'Rasa', Georgia, serif;
+}
+
+h1 {
+  font-family: 'Khula', sans;
+  font-weight: extra-bold;
+  font-size: 35px;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: 'Rasa', serif;
+  font-weight: medium;
+  font-size: 17px;
+}
+
+h3 {
+  font-family: 'Khula', sans;
+  font-weight: extra-bold;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+h4 {
+  font-family: 'Rasa', serif;
+  font-weight: normal;
+  font-size: 19px;
+  text-transform: uppercase;
+}
+
+h5 {
+  font-family: 'Noto Serif', serif;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 16px;
+}
+
+p {
+  font-size: 18px;
+}
