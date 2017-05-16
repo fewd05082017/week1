@@ -4,6 +4,21 @@ body {
   font-family: 'Rasa', Georgia, serif;
 }
 
+img {
+  width: 200px;
+  margin-left: -10px;
+  margin-bottom: 10px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  margin: 40px;
+}
+
 a {
   color: white;
 }
@@ -29,6 +44,7 @@ h3 {
   font-size: 20px;
   text-transform: uppercase;
   color: white;
+  margin-top: 30px;
 }
 
 h4 {
@@ -36,6 +52,7 @@ h4 {
   font-weight: normal;
   font-size: 19px;
   text-transform: uppercase;
+  margin-top: 10px;
 }
 
 h5 {
