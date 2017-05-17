@@ -1,16 +1,28 @@
  body {
-  background-color: #cccccc;
-  color: #1695A3;
+  background-color: black;
+  color:#FEE9E4;
   font-family: 'Playfair Display', serif;
+}
+h1{
+text-align: middle;
+color:#65FF55;
+}
+
+h2{
+	color:#65FF55;
+}
+h3{
+	color:#65FF55;
 }
 
 p {
-  color: #333333;
+  color:#FEE9E4;
   font-family: Arial, sans-serif;
 }
 
 a {
-  color: #1695A3;
-  border: 2px solid #1695A3;
+  color: grey;
+  border: 2px solid grey;
   padding: 4px;
 }
+
