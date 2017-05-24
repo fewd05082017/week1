@@ -1,0 +1,16 @@
+/*
+Main Stylesheet
+index.css
+*/
+
+body {
+  	font: Helvetica;
+	font-family: 'Dancing Script', cursive;
+  	background: #FFC42C;
+  	padding: 5em;
+}
+
+p {
+  background: #FFC42C;
+}
+
